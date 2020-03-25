@@ -1,0 +1,23 @@
+19/09/2016: Update fix bug compare
+file changed:
+app\design\frontend\aloelectro\default\layout\catalog.xml
+app\design\frontend\aloelectro\default\layout\magiccart\blog.xml
+
+19/10/2016: Update Compatible with magento 1.9.3.0
+
+file changed:
+app\code\local\Magiccart\Magicslider\controllers\Adminhtml\MagicsliderController.php
+app\code\local\Magiccart\Magicslider\Block\Adminhtml\Magicslider\Edit\Tab\Gallery.php
+
+app\code\local\Magiccart\Magiccategory\Block\Adminhtml\Manage\Edit\Tab\Gallery.php
+app\code\local\Magiccart\Magiccategory\controllers\Adminhtml\Magiccategory\ManageController.php
+
+app\code\local\Magiccart\Megashop\Block\Adminhtml\Manage\Edit\Tab\Gallery.php
+app\code\local\Magiccart\Megashop\controllers\Adminhtml\Magiccategory\ManageController.php
+
+app\design\adminhtml\default\default\template\magiccart\magicslider\edit\tab\gallery.phtml
+app\design\adminhtml\default\default\template\magiccart\megashop\edit\tab\gallery.phtml
+
+27/12/2016
+file changed:
+app\design\frontend\aloelectro\default\layout\magiccart\alothemes.xml

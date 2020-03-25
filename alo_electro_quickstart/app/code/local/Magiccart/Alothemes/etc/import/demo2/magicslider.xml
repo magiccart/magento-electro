@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<root>
+  <magicslider>
+    <slide>
+      <title><![CDATA[home slide1]]></title>
+      <identifier><![CDATA[home-slide1]]></identifier>
+      <content><![CDATA[[{"url":"http:\/\/web.com\/alo_electro1x\/media\/magiccart\/magicslider\/\/h\/o\/homeslide1.jpg","file":"\/h\/o\/homeslide1.jpg","label":"","position":"1","disabled":0,"removed":0,"html":"<div class=\"container\">\n\t<div class=\"text-slide text-slide1\">\n\t\t<h3 class=\"caption1\">The new <br>Standard<\/h3>\n\t\t<h3 class=\"caption2\">Under Favorable Smartwatcher<\/h3>\n               <h3 class=\"caption3\">Up To <span>40% Off<\/span><\/h3>\n\t\t<h3 class=\"caption4\"><a href=\"#\" class=\"shopnow\">Start Buying<\/a><\/h3>\n\t<\/div>\n<\/div>\n","link":""},{"url":"http:\/\/web.com\/alo_electro1x\/media\/magiccart\/magicslider\/\/h\/o\/homeslide2.jpg","file":"\/h\/o\/homeslide2.jpg","label":"","position":"2","disabled":0,"removed":0,"html":"<div class=\"container\">\n\t<div class=\"text-slide text-slide2\">\n\t\t<h3 class=\"caption1\">Timepiecrs That <br>Make A Statement<\/h3>\n\t\t<h3 class=\"caption2\">Shop To Get What You Love<\/h3>\n               <h3 class=\"caption3\">Up To <span>40% Off<\/span><\/h3>\n\t\t<h3 class=\"caption4\"><a href=\"#\" class=\"shopnow\">Start Buying<\/a><\/h3>\n\t<\/div>\n<\/div>\n","link":""},{"url":"http:\/\/web.com\/alo_electro1x\/media\/magiccart\/magicslider\/\/h\/o\/homslide3.jpg","file":"\/h\/o\/homslide3.jpg","label":"","position":"3","disabled":0,"removed":0,"html":"<div class=\"container\">\n\t<div class=\"text-slide text-slide3\">\n\t\t<h3 class=\"caption1\">Timepiecrs That <br>Make A Statement<\/h3>\n\t\t<h3 class=\"caption2\">Shop To Get What You Love<\/h3>\n               <h3 class=\"caption3\">Up To <span>40% Off<\/span><\/h3>\n\t\t<h3 class=\"caption4\"><a href=\"#\" class=\"shopnow\">Start Buying<\/a><\/h3>\n\t<\/div>\n<\/div>\n","link":""}]]]></content>
+      <status><![CDATA[1]]></status>
+      <config><![CDATA[a:6:{s:5:"width";s:4:"1920";s:6:"height";s:3:"700";s:8:"controls";s:1:"1";s:5:"pager";s:1:"1";s:5:"pause";s:4:"6000";s:5:"speed";s:3:"800";}]]></config>
+    </slide>
+  </magicslider>
+</root>

@@ -1,0 +1,512 @@
+<?xml version="1.0"?>
+<root>
+  <block>
+    <item>
+      <title><![CDATA[Footer Links]]></title>
+      <identifier><![CDATA[footer_links]]></identifier>
+      <content><![CDATA[
+<ul>
+    <li><a href="{{store direct_url="about-magento-demo-store"}}">About Us</a></li>
+    <li><a href="{{store direct_url="customer-service"}}">Customer Service</a></li>
+<li class="last privacy"><a href="{{store direct_url="privacy-policy-cookie-restriction-mode"}}">Privacy Policy</a></li>
+</ul>]]></content>
+      <is_active><![CDATA[1]]></is_active>
+    </item>
+    <item>
+      <title><![CDATA[Footer Links Company]]></title>
+      <identifier><![CDATA[footer_links_company]]></identifier>
+      <content><![CDATA[
+<div class="links">
+    <div class="block-title">
+        <strong><span>Company</span></strong>
+    </div>
+    <ul>
+        <li><a href="{{store url=""}}about-magento-demo-store/">About Us</a></li>
+        <li><a href="{{store url=""}}contacts/">Contact Us</a></li>
+        <li><a href="{{store url=""}}customer-service/">Customer Service</a></li>
+        <li><a href="{{store url=""}}privacy-policy-cookie-restriction-mode/">Privacy Policy</a></li>
+    </ul>
+</div>]]></content>
+      <is_active><![CDATA[1]]></is_active>
+    </item>
+    <item>
+      <title><![CDATA[Cookie restriction notice]]></title>
+      <identifier><![CDATA[cookie_restriction_notice_block]]></identifier>
+      <content><![CDATA[<p>This website requires cookies to provide all of its features. For more information on what data is contained in the cookies, please see our <a href="{{store direct_url="privacy-policy-cookie-restriction-mode"}}">Privacy Policy page</a>. To accept cookies from this site, please click the Allow button below.</p>]]></content>
+      <is_active><![CDATA[1]]></is_active>
+    </item>
+    <item>
+      <title><![CDATA[cms-static-top-support]]></title>
+      <identifier><![CDATA[cms-static-top-support]]></identifier>
+      <content><![CDATA[<div class="cms-static-top-support hot-support">
+<div class="hotline">
+<p><span class="icon icon-phone"><em class="hidden">hidden</em></span>+060 (800) 801-858</p>
+</div>
+<div class="email">
+<p><span class="icon icon-mail"><em class="hidden">hidden</em></span>info@electro.com</p>
+</div>
+</div>]]></content>
+      <is_active><![CDATA[1]]></is_active>
+    </item>
+    <item>
+      <title><![CDATA[cms-static-main-footer]]></title>
+      <identifier><![CDATA[cms-static-main-footer]]></identifier>
+      <content><![CDATA[<div class="main-footer">
+<div class="container">
+<div class="row">
+<div class="cms-static-main-footer">
+<div class="footer-item col-lg-5 col-md-5 col-sm-12 col-xs-12 col-mobile-12">
+<div class="box-content collapsible mobile-collapsible">
+<h3 class="title"><a href="{{store url=""}}"><img src="{{media url=wysiwyg/alothemes/static/logo.png}}" alt="" /></a></h3>
+<span class="toggle-tab mobile"><em class="hidden">hidden</em></span>
+<div class="content toggle-content">
+<ul>
+<li><span class="icon icon-support"><em class="hidden">hidden</em></span>
+<p class="info"><span class="question">Got questions? Call us 24/7!</span><br /> <span class="hot-number">(800) 8001-8588, (0600) 874 548</span></p>
+</li>
+<li><span class="sub-title">Contact info</span>
+<p class="address">17 Princess Road, London, Greater London NW1 8JR, UK</p>
+</li>
+<li>
+<div class="link-social">
+<ul class="link-list">
+<li class="link-icon"><a class="fa fa-facebook" title="facebook" href="#"><span class="hidden">hidden</span></a></li>
+<li class="link-icon"><a class="fa fa-twitter" title="twitter" href="#"><span class="hidden">hidden</span></a></li>
+<li class="link-icon"><a class="fa fa-rss" title="rss" href="#"><span class="hidden">hidden</span></a></li>
+<li class="link-icon"><a class="fa fa-google-plus" title="google-plus" href="#"><span class="hidden">hidden</span></a></li>
+<li class="link-icon"><a class="fa fa-dribbble" title="dribbble" href="#"><span class="hidden">hidden</span></a></li>
+<li class="link-icon"><a class="fa fa-linkedin" title="linkedin" href="#"><span class="hidden">hidden</span></a></li>
+</ul>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="footer-item col-lg-5 col-md-5 col-sm-7 col-xs-12 col-mobile-12">
+<div class="box-content collapsible mobile-collapsible">
+<h3 class="title">Find it fast</h3>
+<span class="toggle-tab mobile"><em class="hidden">hidden</em></span>
+<div class="content toggle-content">
+<ul class="link-list">
+<li><a href="#">Laptop &amp; computers</a></li>
+<li><a href="#">Camera &amp; photography</a></li>
+<li><a href="#">Smart phones &amp; tablets</a></li>
+<li><a href="#">Video games &amp; consoles</a></li>
+<li><a href="#">Tv &amp; audio</a></li>
+<li><a href="#">Gadgets</a></li>
+<li><a href="#">Cart electronic &amp; GPS</a></li>
+</ul>
+<ul class="link-list">
+<li><a href="#">Printers &amp; ink</a></li>
+<li><a href="#">Software</a></li>
+<li><a href="#">Office supplies</a></li>
+<li><a href="#">Computer components</a></li>
+<li><a href="#">Accessories</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="footer-item col-lg-2 col-md-2 col-sm-5 col-xs-12 col-mobile-12">
+<div class="box-content collapsible mobile-collapsible">
+<h3 class="title">Customer care</h3>
+<span class="toggle-tab mobile"><em class="hidden">hidden</em></span>
+<div class="content toggle-content">
+<ul class="link-list">
+<li><a href="#">My account</a></li>
+<li><a href="#">Order tracking</a></li>
+<li><a href="{{store url=""}}contacts/">Contact Us</a></li>
+<li><a href="#">Customer service</a></li>
+<li><a href="#">Return/exchange</a></li>
+<li><a href="#">FAQs</a></li>
+<li><a href="#">Product support</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>]]></content>
+      <is_active><![CDATA[1]]></is_active>
+    </item>
+    <item>
+      <title><![CDATA[home slide1]]></title>
+      <identifier><![CDATA[slide]]></identifier>
+      <content><![CDATA[<div>{{widget type="magicslider/widget_slide" identifier="home-slide1" template="magiccart/magicslider/magicslider.phtml"}}</div>]]></content>
+      <is_active><![CDATA[1]]></is_active>
+    </item>
+    <item>
+      <title><![CDATA[block_footer_top]]></title>
+      <identifier><![CDATA[block_footer_top]]></identifier>
+      <content><![CDATA[<div class="cms-static-page-top page-top">
+	<div class="container">
+		<div class="row">
+			<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+				<div class="block-newletter">{{block type="newsletter/subscribe" template="newsletter/subscribe.phtml"}}</div>
+			</div>
+		</div>
+	</div>
+</div>]]></content>
+      <is_active><![CDATA[1]]></is_active>
+    </item>
+    <item>
+      <title><![CDATA[content_bottom]]></title>
+      <identifier><![CDATA[content_bottom]]></identifier>
+      <content><![CDATA[<div class="cms-static-main-category main-category">
+<div class="container">
+<div class="row">
+<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">{{widget type="magiccategory/widget_magiccategory" identifier="static-content-category" template="magiccart/magiccategory/category-multi-grid.phtml"}}</div>
+</div>
+</div>
+</div>]]></content>
+      <is_active><![CDATA[1]]></is_active>
+    </item>
+    <item>
+      <title><![CDATA[sections_bottom]]></title>
+      <identifier><![CDATA[sections_bottom]]></identifier>
+      <content><![CDATA[<!-- show producr -->
+<div class="cms-static-category section-category-slide">
+<div class="container">
+<div class="row">
+<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">{{widget type="magiccategory/widget_magiccategory" identifier="category-custom" template="magiccart/magiccategory/magiccategory.phtml"}}</div>
+</div>
+</div>
+</div>
+<!-- banner -->
+<div class="cms-static-bottom-banner bottom-banner">
+<div class="container">
+<div class="row">
+<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12"><img class="img-responsive" src="{{media url="wysiwyg/alothemes/static/demo1/bottom-banner.jpg"}}" alt="" /></div>
+</div>
+</div>
+</div>
+<!-- show product -->
+<div class="cms-static-section-products section-products-slide">
+<div class="container">
+<div class="row">
+<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">{{widget type="magicproduct/widget_magicproduct" identifier="latest-products" template="magiccart/magicproduct/magicproduct.phtml"}}</div>
+</div>
+</div>
+</div>]]></content>
+      <is_active><![CDATA[1]]></is_active>
+    </item>
+    <item>
+      <title><![CDATA[cms-static-mix-custom-product]]></title>
+      <identifier><![CDATA[cms-static-mix-custom-product]]></identifier>
+      <content><![CDATA[<!-- show Product custom -->
+<div class="cms-static-mix-custom-product block-custom-product">
+<div class="container">
+<div class="row">
+<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 custom-product custom1">{{widget type="magicproduct/widget_magicproduct" identifier="onsale-product" template="magiccart/magicproduct/magicproduct_custom.phtml"}}</div>
+<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 custom-product custom2">{{widget type="magicproduct/widget_magicproduct" identifier="featured-products" template="magiccart/magicproduct/magicproduct_custom.phtml"}}</div>
+<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 custom-product custom3">{{widget type="magicproduct/widget_magicproduct" identifier="bestseller" template="magiccart/magicproduct/magicproduct_custom.phtml"}}</div>
+</div>
+</div>
+</div>]]></content>
+      <is_active><![CDATA[1]]></is_active>
+    </item>
+    <item>
+      <title><![CDATA[Policy]]></title>
+      <identifier><![CDATA[cms-static-policy]]></identifier>
+      <content><![CDATA[<div class="cms-static-policy policy">
+	<div class="policy-wrap">
+		<div class="policy-box">
+			<div class="box-content">
+				<div class="icon-service">
+					<span class="icons icon icon-transport"></span>
+				</div>
+				<div class="service-content">
+					<div class="info-title"><h3>Free delivery</h3></div>
+					<div class="sub-title"><span>from $50</span></div>
+				</div>
+			</div>
+		</div>
+		<div class="policy-box">
+			<div class="box-content">
+				<div class="icon-service">
+					<span class="icons icon icon-customers"></span>
+				</div>
+				<div class="service-content">
+					<div class="info-title"><h3>99% customer</h3></div>
+					<div class="sub-title"><span>Feedbacks</span></div>
+				</div>
+			</div>
+		</div>
+		<div class="policy-box">
+			<div class="box-content">
+				<div class="icon-service">
+					<span class="icons icon icon-returning"></span>
+				</div>
+				<div class="service-content">
+					<div class="info-title"><h3>360 days</h3></div>
+					<div class="sub-title"><span>for free return</span></div>
+				</div>
+			</div>
+		</div>
+
+		<div class="policy-box">
+			<div class="box-content">
+				<div class="icon-service">
+					<span class="icons icon icon-payment"></span>
+				</div>
+				<div class="service-content">
+					<div class="info-title"><h3>Payment</h3></div>
+					<div class="sub-title"><span>Secure System</span></div>
+				</div>
+			</div>
+		</div>
+		<div class="policy-box">
+			<div class="box-content">
+				<div class="icon-service">
+					<span class="icons icon icon-tag"></span>
+				</div>
+				<div class="service-content">
+					<div class="info-title"><h3>Only best</h3></div>
+					<div class="sub-title"><span>Brands</span></div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>]]></content>
+      <is_active><![CDATA[1]]></is_active>
+    </item>
+    <item>
+      <title><![CDATA[cms-static-about-us-title]]></title>
+      <identifier><![CDATA[cms-static-about-us-title]]></identifier>
+      <content><![CDATA[<div class="cms-static-about-us-title about-us-title">
+	<div class="container">
+		<h3 class="title page-title">About us</h3>
+		<p class="short-description">Passion may be a friendly or eager interest in or admiration for a proposal, cause, discovery, or activity or love to a feeling of unusual excitement.</p>
+	</div>
+</div>]]></content>
+      <is_active><![CDATA[1]]></is_active>
+    </item>
+    <item>
+      <title><![CDATA[cms-static-company-worker]]></title>
+      <identifier><![CDATA[cms-static-company-worker]]></identifier>
+      <content><![CDATA[<div class="cms-static-company-worker company-worker">
+	<div class="container">
+		<div class="row">
+			<div class="col-lg-2 col-md-2 col-sm-4 col-xs-12 item">
+				<div class="img">
+					<a href="#"><img class="img-responsive" src="{{media url="wysiwyg/alothemes/cms/people1.jpg"}}" alt="" /></a>
+				</div>
+				<div class="info">
+					<h3 class="name"><a href="#">Thomas snow</a></h3>
+					<p class="working">Ceo / founder</p>
+				</div>
+			</div>
+			<div class="col-lg-2 col-md-2 col-sm-4 col-xs-12 item">
+				<div class="img">
+					<a href="#"><img class="img-responsive" src="{{media url="wysiwyg/alothemes/cms/people2.jpg"}}" alt="" /></a>
+				</div>
+				<div class="info">
+					<h3 class="name"><a href="#">Anna baranov</a></h3>
+					<p class="working">Client care</p>
+				</div>
+			</div>
+			<div class="col-lg-2 col-md-2 col-sm-4 col-xs-12 item">
+				<div class="img">
+					<a href="#"><img class="img-responsive" src="{{media url="wysiwyg/alothemes/cms/people3.jpg"}}" alt="" /></a>
+				</div>
+				<div class="info">
+					<h3 class="name"><a href="#">Andrei Kowalsy</a></h3>
+					<p class="working">Support Boss</p>
+				</div>
+			</div>
+			<div class="col-lg-2 col-md-2 col-sm-4 col-xs-12 item">
+				<div class="img">
+					<a href="#"><img class="img-responsive" src="{{media url="wysiwyg/alothemes/cms/people4.jpg"}}" alt="" /></a>
+				</div>
+				<div class="info">
+					<h3 class="name"><a href="#">Pamela Doe</a></h3>
+					<p class="working">Delivery Driver</p>
+				</div>
+			</div>
+			<div class="col-lg-2 col-md-2 col-sm-4 col-xs-12 item">
+				<div class="img">
+					<a href="#"><img class="img-responsive" src="{{media url="wysiwyg/alothemes/cms/people5.jpg"}}" alt="" /></a>
+				</div>
+				<div class="info">
+					<h3 class="name"><a href="#">Susan McCain</a></h3>
+					<p class="working">Packaking Girl</p>
+				</div>
+			</div>
+			<div class="col-lg-2 col-md-2 col-sm-4 col-xs-12 item">
+				<div class="img hr">
+					<span class="first">We are</span>
+					<span class="last">Hiring!</span>
+				</div>
+				<div class="info">
+					<h3 class="name"><a href="#">See details</a></h3>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>]]></content>
+      <is_active><![CDATA[1]]></is_active>
+    </item>
+    <item>
+      <title><![CDATA[cms-static-detail-about]]></title>
+      <identifier><![CDATA[cms-static-detail-about]]></identifier>
+      <content><![CDATA[<div class="cms-static-detail-about detail-about">
+	<div class="container">
+		<div class="row">
+			<div class="col-lg-8 col-md-8 col-sm-7 col-xs-12 left-detail-about">
+				<div class="row">
+					<div class="col-lg-6 col-md-6 col-sm-6 col-xs-6 item box">
+						<h3 class="title">What we really do?</h3>
+						<p class="text">Donec libero dolor, tincidunt id laoreet vitae, ullamcorper eu tortor. Maecenas pellentesque, dui vitae iaculis mattis, tortor nisi faucibus magna, vitae ultrices lacus purus vitae metus. Ut nec odio facilisis, ultricies nunc eget, fringilla orci.</p>
+					</div>
+					<div class="col-lg-6 col-md-6 col-sm-6 col-xs-6 item box">
+						<h3 class="title">Our version</h3>
+						<p class="text">Vestibulum velit nibh, egestas vel faucibus vitae, feugiat sollicitudin urna. Praesent iaculis id ipsum sit amet pretium. Aliquam tristique sapien nec enim euismod, scelerisque facilisis arcu consectetur. Vestibulum velit nibh, egestas vel faucibus vitae.</p>
+					</div>
+					<div class="col-lg-6 col-md-6 col-sm-6 col-xs-6 item box">
+						<h3 class="title">History of the company</h3>
+						<p class="text">Mauris rhoncus aliquet purus, a ornare nisi euismod in. Interdum et malesuada fames ac ante ipsum primis in faucibus. Etiam imperdiet eu metus vel ornare. Nullam in risus vel orci feugiat vestibulum. In sed aliquam mi. Nullam condimentum sollicitudin dui.</p>
+					</div>
+					<div class="col-lg-6 col-md-6 col-sm-6 col-xs-6 item box">
+						<h3 class="title">Cooperate with Us!</h3>
+						<p class="text">Donec libero dolor, tincidunt id laoreet vitae, ullamcorper eu tortor. Maecenas pellentesque, dui vitae iaculis mattis, tortor nisi faucibus magna, vitae ultrices lacus purus vitae metus. Ut nec odio facilisis, ultricies nunc eget, fringilla orci.</p>
+					</div>
+				</div>
+			</div>
+			<div class="col-lg-4 col-md-4 col-sm-5 col-xs-12 right-detail-about">
+				<h3 class="title">What we can do for you</h3>
+				<div class="box">
+					<input type="radio" name="toggle" id="box1" checked="" />
+					<label for="box1"><i class="hidden">hidden</i></label>
+					<div class="box-content">
+						<h3 class="sub-title">support 24/7</h3>
+						<p class="subcribe">Vestibulum velit nibh, egestas vel faucibus vitae, feugiat sollicitudin urna. Praesent iaculis id ipsum sit amet pretium. Aliquam tristique sapien nec enim euismod, scelerisque facilisis arcu consectetur. </p>
+					</div>
+				</div>
+				<div class="box">
+					<input type="radio" name="toggle" id="box2"/>
+					<label for="box2"><i class="hidden">hidden</i></label>
+					<div class="box-content">
+						<h3 class="sub-title">Best quality</h3>
+						<p class="subcribe">Vestibulum velit nibh, egestas vel faucibus vitae, feugiat sollicitudin urna. Praesent iaculis id ipsum sit amet pretium. Aliquam tristique sapien nec enim euismod, scelerisque facilisis arcu consectetur. </p>
+					</div>
+				</div>
+				<div class="box">
+					<input type="radio" name="toggle" id="box3"/>
+					<label for="box3"><i class="hidden">hidden</i></label>
+					<div class="box-content">
+						<h3 class="sub-title">Faster delivery</h3>
+						<p class="subcribe">Vestibulum velit nibh, egestas vel faucibus vitae, feugiat sollicitudin urna. Praesent iaculis id ipsum sit amet pretium. Aliquam tristique sapien nec enim euismod, scelerisque facilisis arcu consectetur. </p>
+					</div>
+				</div>
+				<div class="box">
+					<input type="radio" name="toggle" id="box4"/>
+					<label for="box4"><i class="hidden">hidden</i></label>
+					<div class="box-content">
+						<h3 class="sub-title">Customer care</h3>
+						<p class="subcribe">Vestibulum velit nibh, egestas vel faucibus vitae, feugiat sollicitudin urna. Praesent iaculis id ipsum sit amet pretium. Aliquam tristique sapien nec enim euismod, scelerisque facilisis arcu consectetur. </p>
+					</div>
+				</div>
+				<div class="box">
+					<input type="radio" name="toggle" id="box5"/>
+					<label for="box5"><i class="hidden">hidden</i></label>
+					<div class="box-content">
+						<h3 class="sub-title">Over 200 Satisfied Customers</h3>
+						<p class="subcribe">Vestibulum velit nibh, egestas vel faucibus vitae, feugiat sollicitudin urna. Praesent iaculis id ipsum sit amet pretium. Aliquam tristique sapien nec enim euismod, scelerisque facilisis arcu consectetur. </p>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>]]></content>
+      <is_active><![CDATA[1]]></is_active>
+    </item>
+    <item>
+      <title><![CDATA[cms-static-banner-menu-bottom]]></title>
+      <identifier><![CDATA[cms-static-banner-menu-bottom]]></identifier>
+      <content><![CDATA[<div class="cms-static-banner-menu-bottom banner-menu-bottom">
+<div class="banner-menu-box"><a href="#"><img class="img-responsive" alt="" src="{{media url="wysiwyg/alothemes/static/megamenu-bottom.jpg"}}" /></a></div>
+</div>]]></content>
+      <is_active><![CDATA[1]]></is_active>
+    </item>
+    <item>
+      <title><![CDATA[cms-static-banner-menu-right]]></title>
+      <identifier><![CDATA[cms-static-banner-menu-right]]></identifier>
+      <content><![CDATA[<div class="cms-static-banner-menu-right banner-menu-right">
+<div class="banner-menu-box"><a href="#"><img class="img-reponsive" alt="" src="{{media url="wysiwyg/alothemes/static/megamenu-right.jpg"}}" /></a></div>
+</div>]]></content>
+      <is_active><![CDATA[1]]></is_active>
+    </item>
+    <item>
+      <title><![CDATA[paypal]]></title>
+      <identifier><![CDATA[paypal]]></identifier>
+      <content><![CDATA[<img class="img-responsive paypal" src="{{media url="wysiwyg/alothemes/static/paypal.png"}}" alt="" />]]></content>
+      <is_active><![CDATA[1]]></is_active>
+    </item>
+    <item>
+      <title><![CDATA[free-shipping]]></title>
+      <identifier><![CDATA[free-shipping]]></identifier>
+      <content><![CDATA[<p class="free-shipping">Free Shipping on Orders $50+</p>]]></content>
+      <is_active><![CDATA[1]]></is_active>
+    </item>
+    <item>
+      <title><![CDATA[category_view_custom_block]]></title>
+      <identifier><![CDATA[category_view_custom_block]]></identifier>
+      <content><![CDATA[<div class="cms-static-banner-sidebar banner-sidebar"><a href="#"><img class="img-responsive" src="{{media url="wysiwyg/alothemes/static/banner-sidebar.jpg"}}" alt="" /></a></div>
+<div class="cms-static-latest-product-sidebar product-sidebar block-custom-product">{{widget type="magicproduct/widget_magicproduct" identifier="latest-products-category" template="magiccart/magicproduct/magicproduct_custom.phtml"}}</div>]]></content>
+      <is_active><![CDATA[1]]></is_active>
+    </item>
+    <item>
+      <title><![CDATA[cms-static-brands]]></title>
+      <identifier><![CDATA[cms-static-brands]]></identifier>
+      <content><![CDATA[<!-- show Brand -->
+<div class="cms-static-brands brands">
+<div class="container">
+<div class="row">
+<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+<div class="brands-content">{{widget type="shopbrand/widget_brand" template="magiccart/shopbrand/brand.phtml"}}</div>
+</div>
+</div>
+</div>
+</div>]]></content>
+      <is_active><![CDATA[1]]></is_active>
+    </item>
+    <item>
+      <title><![CDATA[block_text_contacts]]></title>
+      <identifier><![CDATA[block_text_contacts]]></identifier>
+      <content><![CDATA[<div class="detail-info">
+	<div class="custom-title">
+	<h3 class="title">Our Address</h3>
+	</div>
+	<div class="contact-info"><address class="text">17 Princess Road London, Greater London NW1 8JR, UK</address>
+	<p class="text">Support (+800) 856 800 604</p>
+	<p class="text">E-mail: <span class="mail">info@electro.com</span></p>
+	</div>
+	<div class="open-time">
+	<h3 class="sub-title">Opening hours</h3>
+	<p class="text">Monday to Friday: 9am &ndash; 9pm</p>
+	<p class="text">Saturday to Sunday: 9am &ndash; 11pm</p>
+	</div>
+	<div class="care">
+	<h3 class="sub-title">Careers</h3>
+	<p class="text">If you&rsquo;re interested in employment opportunities at MediaCenter, please email us: <span class="mail">contact@yourstore.com</span></p>
+	</div>
+</div>]]></content>
+      <is_active><![CDATA[1]]></is_active>
+    </item>
+    <item>
+      <title><![CDATA[block_map_contacts]]></title>
+      <identifier><![CDATA[block_map_contacts]]></identifier>
+      <content><![CDATA[<div class="google-map">
+<div style="width: 100%;"><iframe src="http://www.maps.ie/create-google-map/map.php?width=100%&amp;height=290&amp;hl=en&amp;q=17%20Princess%20Road%20London%2C%20Greater%20London%20NW1%208JR%2C%20UK+(Electro)&amp;ie=UTF8&amp;t=&amp;z=13&amp;iwloc=B&amp;output=embed" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" width="100%" height="290"></iframe></div>
+</div>]]></content>
+      <is_active><![CDATA[1]]></is_active>
+    </item>
+    <item>
+      <title><![CDATA[Smartphones & tablets]]></title>
+      <identifier><![CDATA[smartphones-tablets]]></identifier>
+      <content><![CDATA[<div class="img-menu"><img class="img-responsive" src="{{media url="wysiwyg/alothemes/static/megamenu-bottom.png"}}" alt="" /></div>]]></content>
+      <is_active><![CDATA[1]]></is_active>
+    </item>
+  </block>
+</root>
